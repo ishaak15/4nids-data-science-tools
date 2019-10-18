@@ -1,0 +1,6 @@
+Hi,
+This is Ishaak and here are some of my suggestions for a NIDS.
+
+1. Use for Feature selection algorithms like chi2 and correlation based selection.
+2. Use of basic classifiers like Decision Trees.
+3. Encoding of Dataset plays an important role for Data Science.
